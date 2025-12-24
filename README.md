@@ -1,3 +1,2 @@
-# giang_sinh_an_lanh
-Mở bằng VS Code, Git trể tránh bị mất ảnh
-# Noel-gui-Na
+# Giáng sinh
+Điều khiển tác động bằng camera - sử dụng visual Live server
